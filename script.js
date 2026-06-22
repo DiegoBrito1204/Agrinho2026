@@ -105,3 +105,13 @@ document.getElementById('dynamic-form').addEventListener('submit', (e) => {
         document.getElementById('email').value = "";
     }, 1200);
 });
+const botao =
+document.getElementById("botao");
+
+botao.addEventListener("click",()=>{
+
+alert(
+"Produção e sustentabilidade podem crescer juntas."
+);
+
+});
